@@ -1,0 +1,447 @@
+test1 logIn success Fri Oct 14 16:22:38 2016
+ls  $
+cd testdir $
+ls  $
+ls -l $
+
+test1 logIn success Fri Oct 14 16:29:33 2016
+
+test1 logIn success Fri Oct 14 16:36:36 2016
+ls  $
+cd testdir $
+ls  $
+ls -l $
+ls  $
+ls  $
+cd testdir2 $
+ls  $
+ls  $
+ls -l $
+ls  $
+ls  $
+ls  $
+cd .. $
+ls  $
+
+test1 logIn success Fri Oct 14 16:57:27 2016
+
+test1 logIn success Fri Oct 14 17:00:35 2016
+ls  $
+cd estdir $
+cd testdir $
+ls  $
+cd testdir2 $
+ls  $
+pwd  $
+ls  $
+cd .. $
+ls  $
+pwd  $
+ls  $
+cd .. $
+error cmd  $
+ls  $
+clear  $
+error cmd  $
+clear  $
+error cmd  $
+clear  $
+ls  $
+
+test1 logIn success Fri Oct 14 20:52:37 2016
+ls  $
+cd .. $
+cd testdir $
+ls  $
+ls -l $
+ls  $
+cd testdir2 $
+ls  $
+ls -l $
+ls  $
+ls -l $
+ls  $
+ls -l $
+ls  $
+clear  $
+ls  $
+error cmd  $
+
+test1 logIn success Fri Oct 14 20:55:30 2016
+gets 1.rmv $
+error cmd  $
+
+test1 logIn success Fri Oct 14 21:01:27 2016
+ls  $
+gets 1.rmv $
+error cmd  $
+
+test1 logIn success Fri Oct 14 21:06:11 2016
+gets 1.rmv $
+error cmd  $
+
+test1 logIn success Fri Oct 14 21:09:11 2016
+ls  $
+gets 1.rmv $
+error cmd  $
+
+test1 logIn success Fri Oct 14 21:12:39 2016
+ls  $
+gets 1.rmv $
+error cmd  $
+
+test1 logIn success Fri Oct 14 21:15:35 2016
+ls  $
+gets 1.rmvb $
+error cmd  $
+
+test1 logIn success Fri Oct 14 21:16:34 2016
+gets 1.rmvb $
+
+test1 logIn success Fri Oct 14 21:17:04 2016
+gets 1.rmvb $
+
+test1 logIn success Fri Oct 14 21:18:57 2016
+error cmd 1.rmvb $
+
+test1 logIn success Fri Oct 14 21:19:18 2016
+gets 1.rmvb $
+error cmd  $
+ls  $
+
+test1 logIn success Fri Oct 14 21:25:20 2016
+ls  $
+gets 1.rmvb $
+
+test1 logIn success Fri Oct 14 21:46:16 2016
+gets 1.rmvb $
+
+test1 logIn success Fri Oct 14 21:47:22 2016
+ls  $
+error cmd  $
+
+test1 logIn success Fri Oct 14 21:49:06 2016
+ls  $
+gets 1.rmvb $
+
+test1 logIn success Fri Oct 14 21:50:23 2016
+gets 1.rmvb $
+
+test1 logIn success Fri Oct 14 21:54:26 2016
+ls  $
+gets 1.rmvb160869726Q $
+error cmd  $
+error cmd  $
+
+test1 logIn success Fri Oct 14 21:56:28 2016
+ls  $
+gets 1.rmvb 16086972Q $
+error cmd  $
+ls  $
+
+test1 logIn success Fri Oct 14 21:59:00 2016
+ls  $
+clear  $
+ls  $
+ls  $
+clear  $
+ls  $
+clear  $
+ls  $
+error cmd  $
+clear  $
+ls  $
+clear  $
+ls  $
+clear  $
+ls  $
+clear  $
+ls  $
+error cmd  $
+clear  $
+gets 1.rmvb $
+error cmd  $
+ls  $
+ls  $
+
+test1 logIn success Fri Oct 14 22:01:36 2016
+ls  $
+gets  $
+error cmd  $
+gets cmd.o $
+error cmd  $
+
+test1 logIn success Fri Oct 14 22:10:32 2016
+ls  $
+ls  $
+gets cmd.o $
+error cmd  $
+
+test1 logIn success Fri Oct 14 22:12:25 2016
+ls  $
+puts 1.txt $
+
+test1 logIn success Fri Oct 14 22:16:45 2016
+ls  $
+gets cmd.c $
+error cmd  $
+
+test1 logIn success Fri Oct 14 22:17:18 2016
+gets cmd.c 804 $
+error cmd  $
+
+test1 logIn success Fri Oct 14 22:19:32 2016
+error cmd  $
+error cmd  $
+error cmd  $
+error cmd  $
+test1 logIn success Fri Oct 14 22:20:48 2016
+error cmd  $
+error cmd  $
+ls  $
+gets cmd.o $
+error cmd  $
+
+test1 logIn success Fri Oct 14 22:23:54 2016
+ls  $
+gets mysql.o $
+error cmd  $
+
+test1 logIn success Fri Oct 14 22:26:45 2016
+ls  $
+gets servermain.o $
+error cmd  $
+
+test1 logIn success Fri Oct 14 22:34:54 2016
+ls  $
+gets lscmd.o $
+
+test1 logIn success Fri Oct 14 22:36:45 2016
+ls  $
+error cmd work_que.o $
+gets workque.o $
+
+test1 logIn success Fri Oct 14 22:38:01 2016
+ls  $
+gets work_que.o $
+ls  $
+
+test1 logIn success Fri Oct 14 22:39:26 2016
+ls  $
+
+test1 logIn success Fri Oct 14 22:40:18 2016
+ls  $
+test1 logIn success Fri Oct 14 22:40:30 2016
+ls  $
+ls  $
+ls  $
+ls  $
+clear  $
+ls  $
+ls  $
+clear  $
+ls  $
+
+
+test1 logIn success Fri Oct 14 22:41:29 2016
+ls  $
+gets factory.o $
+
+test1 logIn success Fri Oct 14 22:53:41 2016
+ls  $
+
+test1 logIn success Fri Oct 14 22:59:22 2016
+gets 1.rmvb 41521900 $
+error cmd  $
+test1 logIn success Fri Oct 14 23:00:34 2016
+ls  $
+gets 1.rmvb 41521900 $
+error cmd  $
+remove rmTest.txt $
+ls  $
+gets rmTest.txt $
+test1 logIn success Fri Oct 14 23:04:24 2016
+ls  $
+
+test1 logIn success Sat Oct 15 09:07:49 2016
+ls  $
+gets 1.rmvb 41521900 $
+error cmd  $
+
+test1 logIn success Sat Oct 15 09:14:10 2016
+ls  $
+gets 1.rmvb $
+test1 logIn success Sat Oct 15 09:15:13 2016
+ls  $
+gets 1.rmvb $
+test1 logIn success Sat Oct 15 09:16:26 2016
+ls  $
+gets 1.rmvb $
+test1 logIn success Sat Oct 15 09:18:06 2016
+gets 1.rmvb $
+test1 logIn success Sat Oct 15 09:20:15 2016
+ls  $
+clear  $
+ls  $
+clear  $
+ls  $
+clear  $
+gets 1.rmvb $
+cd testdir $
+ls  $
+
+test1 logIn success Sat Oct 15 09:22:21 2016
+ls  $
+gets 1.rmvb 16086972 $
+error cmd  $
+
+test1 logIn success Sat Oct 15 09:26:03 2016
+gets 1.rmvb 16086972 $
+
+test1 logIn success Sat Oct 15 09:29:49 2016
+ls  $
+gets 1.rmvb 16086972 $
+
+test1 logIn success Sat Oct 15 09:31:20 2016
+ls  $
+gets 1.rmvb $
+
+test1 logIn success Sat Oct 15 09:33:01 2016
+gets 1.rmvb $
+ls  $
+clear  $
+ls  $
+ls  $
+gets 1.rmvb $
+
+test1 logIn success Sat Oct 15 09:38:43 2016
+ls  $
+
+test1 logIn success Sat Oct 15 09:44:13 2016
+ls  $
+ls -l $
+
+test1 logIn success Sat Oct 15 09:47:18 2016
+ls  $
+ls  $
+ls  $
+ls  $
+ls  $
+clear  $
+ls  $
+clear  $
+ls  $
+clear  $
+ls  $
+test1 logIn success Sat Oct 15 09:51:39 2016
+ls  $
+ls  $
+ls  $
+ls  $
+ls  $
+clear  $
+ls  $
+clear  $
+ls  $
+clear  $
+ls  $
+
+test1 logIn success Sat Oct 15 10:12:36 2016
+ls  $
+cd testdir $
+ls  $
+cd .. $
+ls -l $
+
+test1 logIn success Sun Oct 16 18:00:53 2016
+ls  $
+clear  $
+ls -l $
+ls  $
+clear  $
+ls  $
+
+test1 logIn success Sun Oct 16 18:01:26 2016
+ls  $
+ls -l $
+clear  $
+ls  $
+error cmd  $
+error cmd  $
+clear  $
+ls  $
+clear  $
+ls  $
+error cmd  $
+gets 1.rmvb $
+ls  $
+puts 1.rmvb $
+test1 logIn success Sun Oct 16 18:19:13 2016
+ls  $
+cd . $
+ls  $
+clear  $
+ls  $
+ls -l $
+ls  $
+clear  $
+ls  $
+clear  $
+ls  $
+ls -l $
+ls  $
+cd testdir $
+error cmd  $
+ls  $
+clear  $
+ls  $
+ls -l $
+ls  $
+cd .. $
+ls  $
+puts 1.rmvb $
+test1 logIn success Sun Oct 16 18:28:20 2016
+ls  $
+puts 1.rmvb $
+test1 logIn success Sun Oct 16 18:35:54 2016
+ls  $
+ls  $
+clear  $
+ls  $
+ls -l $
+ls  $
+clear  $
+ls  $
+puts 1.rmvb $
+ls  $
+ls  $
+clear  $
+ls  $
+clear  $
+ls  $
+clear  $
+ls  $
+puts 1.rmvb $
+test1 logIn success Sun Oct 16 18:42:00 2016
+ls  $
+clear  $
+ls  $
+ls -l testdir $
+ls  $
+ls  $
+clear  $
+ls  $
+ls  $
+clear  $
+ls  $
+clear  $
+ls  $
+ls  $
+puts 1.rmvb $
+test1 logIn success Sun Oct 16 18:47:40 2016
+ls  $
+ls  $
+clear  $
+ls  $
+puts 1.rmvb $
+

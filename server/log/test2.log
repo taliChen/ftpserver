@@ -1,0 +1,61 @@
+test2 logIn success Fri Oct 14 16:22:55 2016
+error cmd  $
+ls  $
+ls  $
+cd testdir $
+ls  $
+cd testdir2 $
+pwd  $
+ls  $
+cd .. $
+ls  $
+cd .. $
+ls  $
+clear  $
+ls  $
+clear  $
+ls  $
+clear  $
+error cmd  $
+clear  $
+error cmd  $
+clear  $
+clear  $
+
+test2 logIn success Fri Oct 14 20:54:26 2016
+ls  $
+cd .. $
+ls  $
+cd tstdir $
+ls  $
+cd testdir $
+ls  $
+clear  $
+ls -l $
+ls  $
+ls -l $
+ls  $
+clear  $
+ls  $
+ls -l $
+cd .. $
+ls  $
+cd .. $
+
+test2 logIn success Fri Oct 14 22:49:50 2016
+ls  $
+gets jlk $
+ls  $
+ls  $
+clear  $
+ls  $
+ls  $
+
+test2 logIn success Fri Oct 14 22:55:26 2016
+ls  $
+gets 1.rmvb $
+
+test2 logIn success Fri Oct 14 22:55:51 2016
+gets 1.rmvb 41521900 $
+error cmd  $
+
